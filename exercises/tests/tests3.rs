@@ -20,6 +20,6 @@ mod tests {
 
     #[test]
     fn is_false_when_odd() {
-        assert!();
+        assert!(!is_even(5));
     }
 }
